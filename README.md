@@ -16,7 +16,7 @@
  versionId: number
 ```
 - #### PortfolioVersionEntity - Which contains all the versions linked to the main portfolio. The VersionType is an enum which accepts 3 states : published, draft and snapshot
-
+ 
 ```
   id: number; 
   versionType: string; 
